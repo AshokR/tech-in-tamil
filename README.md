@@ -1,9 +1,9 @@
  ## தமிழில் பொறியியல் / தொழில்நுட்பம் - பட்டியல் List of engineering and technology publications in Tamil
- # அகராதிகள் / கலைச்சொல் தொகுப்புகள்
+ ### அகராதிகள் / கலைச்சொல் தொகுப்புகள்
  * யாவருக்கும் புரியும் தொழில்நுட்பம் Popular technology
    * கேலிச்சித்திர பாணி (Cartoon style) ALL ABOUT ENERGY - Original French by JEAN PIERRE PETIT, TAMIL TRANSLATION BY DR. UTHRA DORAIRAJAN https://archive.org/details/AllAboutEnergy-Tamil-JeanPierrePetit
- # பொதுப் பொறியியல் Civil Engineering
- # இயந்திரவியல் பொறியியல் Mechanical Engineering
+ ### பொதுப் பொறியியல் Civil Engineering
+ ### இயந்திரவியல் பொறியியல் Mechanical Engineering
    * அச்சில்
      * பற்றவைப்பு; நுணுக்கங்களும் முறைகளும் Welding - கந்தசாமி,சு  (2014) - - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை
      * பொது இயந்திரவியல் தாள்-1 பொறியியல் வரைபடம் தொழிற்கல்வி-மேல்நிலை - முதலாம் ஆண்டு  /  தமிழ்நாடு அரசு  (2010) 621 TAM
@@ -16,7 +16,7 @@
 
    * மின்னூல்கள்
    * காணொளிகள்
- # மின்னியல் Electrical Engineering
- # கட்டடக்கலை Architecture
- # சுரங்க மற்றும் மாழையியல் Mining and Metallurgy
- # வேதிப் பொறியியல் Chemical engineering
+ ### மின்னியல் Electrical Engineering
+ ### கட்டடக்கலை Architecture
+ ### சுரங்க மற்றும் மாழையியல் Mining and Metallurgy
+ ### வேதிப் பொறியியல் Chemical engineering
