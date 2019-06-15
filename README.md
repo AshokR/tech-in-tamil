@@ -15,6 +15,11 @@
      * டீசல் எஞ்சினும் ரிப்பேரும் - பேராசிரியர் சோ. சீனிவாசன்  (2003) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை
    * மின்னூல்கள்
    * காணொளிகள்
+     * AUmech-in-tamil YouTube Channel - First episode published Jun 13, 2017 - பயிலுவோம் இயந்திரயியல் பழகு தமிழில் - தமிழ்மெக். தாளமுத்து “I am going to teach Anna University Mechanical Engineering subjects in Tamil. It may also be useful for Polytechnic students.” Teaching Methodology: Question and Answer format - With many solved problems.
+GE 6152 Engineering Graphics: I Year All Engineering students 1st Semester;
+ME 6301 Engineering Thermodynamics: II Year Mech students 3rd Semester;
+ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
+
  ### மின்னியல் Electrical Engineering
  ### கட்டடக்கலை Architecture
  ### சுரங்க மற்றும் மாழையியல் Mining and Metallurgy
