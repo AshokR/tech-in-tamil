@@ -33,6 +33,7 @@ ME 6301 Engineering Thermodynamics: II Year Mech students 3rd Semester;
 ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
      * [Mechanical Engineering - N. சண்முகம், பொறியியலாளர், மதுரை பொறியியல் நிறுவனம்](https://www.youtube.com/user/maduraiengineering/videos?view=0&sort=dd&flow=grid)
      Engineering Mechanics, Strength of Materials, Fluid Mechanics, Heat Transfer, IC Engines, Refrigeration, Air Conditioning, Boiler, Lathe, Milling, CNC, Hydraulic Lift.
+     * [தமிழ்வழி CNC பயிற்சி - Shavedha CNC Institute - CNC Programming & operation, CNC Offset](https://www.youtube.com/channel/UCn5hz3CIRfQtfbhZXbW_KbA/videos)
  ### மின்னியல் Electrical Engineering
    * மின்னியல் - மின் இயந்திரங்களும் சாதனங்களும் கருத்தியல் - I தொழிற்கல்வி மேல்நிலை - முதலாம் ஆண்டு  /  தமிழ்நாடு அரசு  (2010) 621.38 KUM
    * கண்டுபிடித்தது எப்படி? : மின்னியல் துறை பிதாமகர்கள். பாகம்.2  /  கொரட்டூர் கே. என். ஸ்ரீனிவாஸ்  (2009) 609 SRI
