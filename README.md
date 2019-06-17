@@ -57,7 +57,9 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
    * இணைய தளங்கள் / வலைப்பதிவுகள்: [Space News Tamil](https://spacenewstamil.com/)
    * ஒலியோடைகள் Podcasts: [On this day (OTD) in space history](https://spacenewstamil.com/tag/otd-tamil/)
  ### சுரங்க மற்றும் மாழையியல் Mining and Metallurgy
+   * காணொளி: [வெப்பப் பதனிடல் Heat treatment - improving the property of metals by hardening, annealing & normalizing - Dharaniswaran](https://www.youtube.com/watch?v=i1Y2mek9ovo)
  ### வேதிப் பொறியியல் Chemical engineering
+   * காணொளி: [CHEMICAL ENGINEERING INTRODUCTION VIDEO - Part 2 - Dhanasekar](https://www.youtube.com/watch?v=A6_qlSNDZgc)
  ### எந்திரனியல் Robotics
    * அச்சில்: இயந்திர மனிதனும் அதன் இயக்கவியலும் - எம். ஆர். சிதம்பரா ; ஆங்கிலத்திலிருந்து தமிழில் ஜீவா  (1996) - நேஷனல் புக் டிரஸ்ட், புதுதில்லி - ISBN: 8123719051
  ### நுண்பொருள் தொழில்நுட்பம் Nano technology
