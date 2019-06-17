@@ -26,6 +26,7 @@
      * ரெஃப்ரிஜிரேஷன் & ஏர்கண்டிஷனிங் மெக்கானிசம் - C. M. ஜாய் ஜார்ஜ்  (2008) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை - ISBN: 8123405529     
      * டீசல் எஞ்சினும் ரிப்பேரும் - பேராசிரியர் சோ. சீனிவாசன்  (2003) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை
    * மின்னூல்கள்
+     * [எளிய தமிழில் CNC  – இரா. அசோகன்](https://freetamilebooks.com/ebooks/cnc/)
    * காணொளிகள்
      * [AUmech-in-tamil](https://www.youtube.com/channel/UCLzsO1SJl5nD47WwmrR5D6Q/videos) YouTube Channel - First episode published Jun 13, 2017 - பயிலுவோம் இயந்திரயியல் பழகு தமிழில் - தமிழ்மெக். தாளமுத்து 
 GE 6152 Engineering Graphics: I Year All Engineering students 1st Semester;
