@@ -59,7 +59,10 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
    * இணைய தளங்கள் / வலைப்பதிவுகள்: [Space News Tamil](https://spacenewstamil.com/)
    * ஒலியோடைகள் Podcasts: [On this day (OTD) in space history](https://spacenewstamil.com/tag/otd-tamil/)
  ### சுரங்க மற்றும் மாழையியல் Mining and Metallurgy
-   * காணொளி: [வெப்பப் பதனிடல் Heat treatment - improving the property of metals by hardening, annealing & normalizing - Dharaniswaran](https://www.youtube.com/watch?v=i1Y2mek9ovo)
+   * காணொளி: 
+     * [Class 12 Chemistry | Metallurgy (State board) 42 videos - Kalabharathi Academy -
+Mineral and ore, Froth floatation process, Leaching, Magnetic separation, Roasting, Calcination, smelting, Ellingham diagram, Hall heroult's process, Refining, Van Arkel Method](https://www.youtube.com/playlist?list=PLCATGF9qVeC62H0WxnxKYmBNS1FU64z3N)
+     * [வெப்பப் பதனிடல் Heat treatment - improving the property of metals by hardening, annealing & normalizing - தரணீஸ்வரன்](https://www.youtube.com/watch?v=i1Y2mek9ovo)
  ### வேதிப் பொறியியல் Chemical engineering
    * காணொளி: [வேதிப் பொறியியல் தமிழில் - வெப்ப இயக்கவியல் அடிப்படைகள், ஆற்றல் அழிவின்மை, கலைச்சொற்கள், SI Units - தனசேகர்](https://www.youtube.com/channel/UCq6CaqP9Udf_ZtyowjOAQqQ/videos)     
  ### எந்திரனியல் Robotics
