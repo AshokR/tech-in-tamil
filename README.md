@@ -61,7 +61,10 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
  ### சுரங்க மற்றும் மாழையியல் Mining and Metallurgy
    * காணொளி: [வெப்பப் பதனிடல் Heat treatment - improving the property of metals by hardening, annealing & normalizing - Dharaniswaran](https://www.youtube.com/watch?v=i1Y2mek9ovo)
  ### வேதிப் பொறியியல் Chemical engineering
-   * காணொளி: [CHEMICAL ENGINEERING INTRODUCTION VIDEO - Part 2 - Dhanasekar](https://www.youtube.com/watch?v=A6_qlSNDZgc)
+   * காணொளி: 
+     * [வெப்ப இயக்கவியல் முதல் விதி First Law of Thermodynamics - ஆற்றல் அழிவின்மை Law of conservation of energy - தனசேகர்](https://www.youtube.com/watch?v=DvTdG4wKfYQ)
+     * [வெப்ப இயக்கவியல் அடிப்படைகள் - கலைச்சொற்கள் Thermodynamics Basics - Words - தனசேகர்](https://www.youtube.com/watch?v=6P-hvCvmLxY)
+     * [வெப்ப இயக்கவியல் அமைப்பு வகைகள் Thermodynamics - System (Types) - தனசேகர்](https://www.youtube.com/watch?v=FFtQ4UDN7g0)
  ### எந்திரனியல் Robotics
    * அச்சில்: இயந்திர மனிதனும் அதன் இயக்கவியலும் - எம். ஆர். சிதம்பரா ; ஆங்கிலத்திலிருந்து தமிழில் ஜீவா  (1996) - நேஷனல் புக் டிரஸ்ட், புதுதில்லி - ISBN: 8123719051
  ### நுண்பொருள் தொழில்நுட்பம் Nano technology
