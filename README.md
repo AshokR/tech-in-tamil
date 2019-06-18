@@ -1,11 +1,11 @@
- ## பொறியியல் / தொழில்நுட்பம் தமிழில் கற்கலாம்
+ # பொறியியல் / தொழில்நுட்பம் தமிழில் கற்கலாம்
  ### அகராதிகள் / கலைச்சொல் தொகுப்புகள்
   * ஆங்கிலம் - தமிழ் சொற்களஞ்சியம் (பல்துறை கலைச்சொல் அகராதி)  /  தொகுப்பு: நவீன்குமார்.  (2014) - யுனிகியூ மீடியா இன்டெகரேட்டர்ஸ் ISBN: 9789383051403
   * எளிய படவிளக்க எந்திரப்பொறியியல் அகராதி - உருசிய மூலநூல் ஆசிரியர், வி.வி. ஷ்வார்த்ஸ்;  தமிழாக்கம் உலோ.செந்தமிழ்க்கோதை (2008) - தென்னக ஆய்வு மையம், சென்னை
   * கலைச்சொல் பேரகராதி - கலைச்சொல்லாக்கக் குழு தமிழ்நாடு அரசு  (2008) - தமிழ் இணையப் பல்கலைக்கழகம், சென்னை
   * இயந்திரவியல் இயந்திரப் பொறியியல் கலைச்சொற்கள் - தொகுப்பாசிரியர்: முனைவர் இராதா செல்லப்பன் (2002) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் -  ISBN:81-7090-307-1
   * மின்னியல் மற்றும் மின்னணுவியல் கலைச்சொற்கள் - பதிப்பாசிரியர்: முனைவர் இராதா செல்லப்பன் (2002) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN:81-7090-308-4
- ### யாவருக்கும் தொழில்நுட்பம் Popular technology
+ ### யாவருக்கும் தொழில்நுட்பம் Popular Technology
    * கேலிச்சித்திர பாணி (Cartoon style) [கண்டேன் ஆற்றலை ALL ABOUT ENERGY - Original French by JEAN PIERRE PETIT, தமிழாக்கம் டாக்டர் உத்ரா துரைராஜன்](https://archive.org/details/AllAboutEnergy-Tamil-JeanPierrePetit)
  ### பொதுப் பொறியியல் Civil Engineering
    * அச்சில்
@@ -23,8 +23,7 @@
      * பொது இயந்திரவியல் தாள்-2 பணிமனை பொறியியல் தொழிற்கல்வி - மேல்நிலை முதலாம் ஆண்டு - தமிழ்நாடு அரசு  (2010) 
      * பொது இயந்திரவியல் தாள்-2 பணிமனைப் பொறியியல் - மேல்நிலை முதலாம் ஆண்டு - தமிழ்நாடு அரசு  (2010)
      * இயந்திர பொறியியலும் வரைபடமும் (2010) - தமிழ்நாட்டுப் பாடநூல் கழகம்     
-     * ரெஃப்ரிஜிரேஷன் & ஏர்கண்டிஷனிங் மெக்கானிசம் - C. M. ஜாய் ஜார்ஜ்  (2008) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை - ISBN: 8123405529     
-     * டீசல் எஞ்சினும் ரிப்பேரும் - பேராசிரியர் சோ. சீனிவாசன்  (2003) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை
+     * ரெஃப்ரிஜிரேஷன் & ஏர்கண்டிஷனிங் மெக்கானிசம் - C. M. ஜாய் ஜார்ஜ்  (2008) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை - ISBN: 8123405529 
    * மின்னூல்கள்
      * [எளிய தமிழில் CNC  – இரா. அசோகன் - Freetamilebooks.com கணியம் அறக்கட்டளை](https://freetamilebooks.com/ebooks/cnc/)
    * காணொளிகள்
@@ -35,6 +34,9 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
      * [Mechanical Engineering - N. சண்முகம், பொறியியலாளர், மதுரை பொறியியல் நிறுவனம்](https://www.youtube.com/user/maduraiengineering/videos?view=0&sort=dd&flow=grid)
      Engineering Mechanics, Strength of Materials, Fluid Mechanics, Heat Transfer, IC Engines, Refrigeration, Air Conditioning, Boiler, Lathe, Milling, CNC, Hydraulic Lift.
      * [தமிழ்வழி CNC பயிற்சி - Shavedha CNC Institute - CNC Programming & operation, CNC Offset](https://www.youtube.com/channel/UCn5hz3CIRfQtfbhZXbW_KbA/videos)
+ ### தானுந்து பொறியியல் Automobile Engineering  
+   * காணொளி: [Mech Tamil Nahom - 2 and 4 stroke engines, petrol and diesel engines, SI and CI engines, HCCI and bi-fuel engines](https://www.youtube.com/playlist?list=PL14KfBIPVoN8Afw6_8AGcaIMtfzvZXiNY)
+    * அச்சில்: டீசல் எஞ்சினும் ரிப்பேரும் - பேராசிரியர் சோ. சீனிவாசன்  (2003) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை
  ### மின்னியல் Electrical Engineering
    * மின்னியல் - மின் இயந்திரங்களும் சாதனங்களும் கருத்தியல் - I தொழிற்கல்வி மேல்நிலை - முதலாம் ஆண்டு  /  தமிழ்நாடு அரசு  (2010) 621.38 KUM
    * கண்டுபிடித்தது எப்படி? : மின்னியல் துறை பிதாமகர்கள். பாகம்.2  /  கொரட்டூர் கே. என். ஸ்ரீனிவாஸ்  (2009) 609 SRI
@@ -53,7 +55,7 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
    * கட்டுமானப் பொறியியல் தெறிந்ததும் தெறியாததும் - அ. வீரப்பன்  (2013) - பிராம்ப்ட் பதிப்பகம், சென்னை
    * கட்டடத் தொழில்நுட்பம் - நடேசன், சு. சி. (1997) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN: 8170902509
    * அடிப்படைக் கட்டுமான வடிவமைப்பு - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர்
- ### வானூர்தி / விண்வெளிப் பொறியியல் Aeronautical / Space
+ ### வானூர்தி / விண்வெளிப் பொறியியல் Aeronautical and Space
    * ஏவூர்தியியல் Rocketry - ஆசிரியர் நெல்லை சு. முத்து  (2007) - ஆர்வி பதிப்பகம், சென்னை
    * [இன்றைய விண்வெளி Space Today - மோகன் சுந்தரராஜன், சித்திரங்கள் நரேந்திர தியாகி (2003) - நேஷனல் புக் டிரஸ்ட், புதுதில்லி](https://archive.org/details/in.ernet.dli.2015.287688)
    * இணைய தளங்கள் / வலைப்பதிவுகள்: [Space News Tamil](https://spacenewstamil.com/)
@@ -63,9 +65,9 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
      * [Class 12 Chemistry | Metallurgy (State board) 42 videos - Kalabharathi Academy -
 Mineral and ore, Froth floatation process, Leaching, Magnetic separation, Roasting, Calcination, smelting, Ellingham diagram, Hall heroult's process, Refining, Van Arkel Method](https://www.youtube.com/playlist?list=PLCATGF9qVeC62H0WxnxKYmBNS1FU64z3N)
      * [வெப்பப் பதனிடல் Heat treatment - improving the property of metals by hardening, annealing & normalizing - தரணீஸ்வரன்](https://www.youtube.com/watch?v=i1Y2mek9ovo)
- ### வேதிப் பொறியியல் Chemical engineering
+ ### வேதிப் பொறியியல் Chemical Engineering
    * காணொளி: [வேதிப் பொறியியல் தமிழில் - வெப்ப இயக்கவியல் அடிப்படைகள், ஆற்றல் அழிவின்மை, கலைச்சொற்கள், SI Units - தனசேகர்](https://www.youtube.com/channel/UCq6CaqP9Udf_ZtyowjOAQqQ/videos)     
  ### எந்திரனியல் Robotics
    * அச்சில்: இயந்திர மனிதனும் அதன் இயக்கவியலும் - எம். ஆர். சிதம்பரா ; ஆங்கிலத்திலிருந்து தமிழில் ஜீவா  (1996) - நேஷனல் புக் டிரஸ்ட், புதுதில்லி - ISBN: 8123719051
- ### நுண்பொருள் தொழில்நுட்பம் Nano technology
+ ### நுண்பொருள் தொழில்நுட்பம் Nano Technology
    * அச்சில்: நானோ டெக்னாலஜி - சுஜாதா (2007) - உயிர்மை பதிப்பகம், சென்னை
