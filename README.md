@@ -34,8 +34,14 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
      * [Mechanical Engineering - N. சண்முகம், பொறியியலாளர், மதுரை பொறியியல் நிறுவனம்](https://www.youtube.com/user/maduraiengineering/videos?view=0&sort=dd&flow=grid)
      Engineering Mechanics, Strength of Materials, Fluid Mechanics, Heat Transfer, IC Engines, Refrigeration, Air Conditioning, Boiler, Lathe, Milling, CNC, Hydraulic Lift.
      * [தமிழ்வழி CNC பயிற்சி - Shavedha CNC Institute - CNC Programming & operation, CNC Offset](https://www.youtube.com/channel/UCn5hz3CIRfQtfbhZXbW_KbA/videos)
+     * [THOUFIQ MOHAMMED. K Assistant Professor - Design of Machine Elements - 13 videos - Design of shafts, beams, bearings, welding joints, helical and leaf springs, flange coupling, rivet joints](https://www.youtube.com/playlist?list=PL8EJqJaNKpjW8Qka2MatntptB3_Gt180L)
+     * [Mechanical Engineering in Tamil - Thermal Engineering - 6 videos - How Thermal Power Plant Works? Step By Step Explained](https://www.youtube.com/playlist?list=PL_cqYaRSlQavIpuKB0ygUGkqFV3PVL9TB)
+     * [Mechanical Engineering in Tamil - Pumps - 3 videos - How Centrifugal and Jet pumps work? What Is bearing?](https://www.youtube.com/playlist?list=PL_cqYaRSlQauSugWfg1C4fGBq3IHFUoct)
+     * [Mechanical Engineering in Tamil - How does a wind turbine work?](https://www.youtube.com/watch?v=Ta5Us0Xd6_g)
  ### தானுந்து பொறியியல் Automobile Engineering  
-   * காணொளி: [Mech Tamil Nahom - 2 and 4 stroke engines, petrol and diesel engines, SI and CI engines, HCCI and bi-fuel engines](https://www.youtube.com/playlist?list=PL14KfBIPVoN8Afw6_8AGcaIMtfzvZXiNY)
+   * காணொளி: 
+     * [Mechanical Engineering in Tamil - Automobile Engineering - 331 videos - Engines, tyre, brakes, spark plugs, battery, differential, radiator, silencer, electric cars and bikes](https://www.youtube.com/playlist?list=PL_cqYaRSlQatG9xTLerabnBxEbN1MxRbR)
+     * [Mech Tamil Nahom - 7 videos - 2 and 4 stroke engines, petrol and diesel engines, SI and CI engines, HCCI and bi-fuel engines](https://www.youtube.com/playlist?list=PL14KfBIPVoN8Afw6_8AGcaIMtfzvZXiNY)
    * அச்சில்: டீசல் எஞ்சினும் ரிப்பேரும் - பேராசிரியர் சோ. சீனிவாசன்  (2003) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை
  ### மின்னியல் Electrical Engineering
    * மின்னியல் - மின் இயந்திரங்களும் சாதனங்களும் கருத்தியல் - I தொழிற்கல்வி மேல்நிலை - முதலாம் ஆண்டு  /  தமிழ்நாடு அரசு  (2010) 621.38 KUM
