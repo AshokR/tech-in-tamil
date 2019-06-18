@@ -36,7 +36,7 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
      * [தமிழ்வழி CNC பயிற்சி - Shavedha CNC Institute - CNC Programming & operation, CNC Offset](https://www.youtube.com/channel/UCn5hz3CIRfQtfbhZXbW_KbA/videos)
  ### தானுந்து பொறியியல் Automobile Engineering  
    * காணொளி: [Mech Tamil Nahom - 2 and 4 stroke engines, petrol and diesel engines, SI and CI engines, HCCI and bi-fuel engines](https://www.youtube.com/playlist?list=PL14KfBIPVoN8Afw6_8AGcaIMtfzvZXiNY)
-    * அச்சில்: டீசல் எஞ்சினும் ரிப்பேரும் - பேராசிரியர் சோ. சீனிவாசன்  (2003) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை
+   * அச்சில்: டீசல் எஞ்சினும் ரிப்பேரும் - பேராசிரியர் சோ. சீனிவாசன்  (2003) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை
  ### மின்னியல் Electrical Engineering
    * மின்னியல் - மின் இயந்திரங்களும் சாதனங்களும் கருத்தியல் - I தொழிற்கல்வி மேல்நிலை - முதலாம் ஆண்டு  /  தமிழ்நாடு அரசு  (2010) 621.38 KUM
    * கண்டுபிடித்தது எப்படி? : மின்னியல் துறை பிதாமகர்கள். பாகம்.2  /  கொரட்டூர் கே. என். ஸ்ரீனிவாஸ்  (2009) 609 SRI
