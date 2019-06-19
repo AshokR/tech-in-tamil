@@ -48,9 +48,8 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
      Engineering Mechanics, Strength of Materials, Fluid Mechanics, Heat Transfer, IC Engines, Refrigeration, Air Conditioning, Boiler, Lathe, Milling, CNC, Hydraulic Lift.
      * [தமிழ்வழி CNC பயிற்சி - Shavedha CNC Institute - CNC Programming & operation, CNC Offset](https://www.youtube.com/channel/UCn5hz3CIRfQtfbhZXbW_KbA/videos)
      * [THOUFIQ MOHAMMED. K Assistant Professor - Design of Machine Elements - 13 videos - Design of shafts, beams, bearings, welding joints, helical and leaf springs, flange coupling, rivet joints](https://www.youtube.com/playlist?list=PL8EJqJaNKpjW8Qka2MatntptB3_Gt180L)
-     * [Mechanical Engineering in Tamil - Thermal Engineering - 6 videos - How Thermal Power Plant Works? Step By Step Explained](https://www.youtube.com/playlist?list=PL_cqYaRSlQavIpuKB0ygUGkqFV3PVL9TB)
-     * [Mechanical Engineering in Tamil - Pumps - 3 videos - How Centrifugal and Jet pumps work? What Is bearing?](https://www.youtube.com/playlist?list=PL_cqYaRSlQauSugWfg1C4fGBq3IHFUoct)
-     * [Mechanical Engineering in Tamil - How does a wind turbine work?](https://www.youtube.com/watch?v=Ta5Us0Xd6_g)
+     * [Machine Design - 23 videos - பிரசாந்த் கல்யாணசுந்தரம் - Fundamentals of Failure Analysis, Stress concentration, Fatigue failure, Thermal expansion, Torque Vs Moment, Bending Moment & Shear Force Diagram, Moment of Inertia, Factor of Safety, Fracture Mechanics](https://www.youtube.com/playlist?list=PLGPnYKI27nXqZYdtJxL-hHYwdf5Q_7eKC)
+     * [Mechanical Engineering in Tamil - 10 videos - Thermal power plant, Centrifugal and Jet pumps, Wind turbine](https://www.youtube.com/channel/UCCZNyXp_n_nwUl7_8l4tkJg/playlists)
  ### தானுந்து பொறியியல் Automobile Engineering  
    * காணொளி: 
      * [Mechanical Engineering in Tamil - Automobile Engineering - 331 videos - Engines, tyre, brakes, spark plugs, battery, differential, radiator, silencer, electric cars and bikes](https://www.youtube.com/playlist?list=PL_cqYaRSlQatG9xTLerabnBxEbN1MxRbR)
