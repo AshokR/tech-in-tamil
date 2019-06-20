@@ -26,6 +26,9 @@
      * மண் விசையியல் Soil Mechanics - முனைவர் கொடுமுடி சண்முகன்  (1997) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN: 8170902576 - [சில பக்கங்கள்](https://github.com/AshokR/tech-in-tamil/tree/master/Resources/Soil%20Mechanics)
      * கட்டடத் தொழில்நுட்பம் - நடேசன், சு. சி. (1997) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN: 8170902509
      * அடிப்படைக் கட்டுமான வடிவமைப்பு - க.செயகோபால் (1992) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN:81-7090-105-7
+   * அச்சில் - மாத இதழ்கள்
+     * கட்டுநர் குரல் - “A Monthly Journal for Architects, Builders, Contractors, Engineers, Flat Promoters & General Public”
+     * [பில்டர்ஸ் லைன் - கட்டுமானத்துறை மாத இதழ் - by Prompt Publication](http://www.buildersline.in/)
    * காணொளிகள்
  ### இயந்திரவியல் பொறியியல் Mechanical Engineering
    * அச்சில்
