@@ -2,8 +2,11 @@
  ### அகராதிகள் / கலைச்சொல் தொகுப்புகள்
   * [அறிவியல் தொழில்நுட்ப இலக்கியங்களைத் தமிழாக்குவதற்கான ஒரு கையேடு - ஜெயபாண்டியன் கோட்டாளம்](https://drive.google.com/file/d/0BzwpbxABzaV5SzVpQ24tY0NGVXc/edit)
   * ஆங்கிலம் - தமிழ் சொற்களஞ்சியம் (பல்துறை கலைச்சொல் அகராதி)  /  தொகுப்பு: நவீன்குமார்.  (2014) - யுனிகியூ மீடியா இன்டெகரேட்டர்ஸ் ISBN: 9789383051403
+  * அகராதியியல் கலைச்சொல்லகராதி - பெ. மாதையன் (2009) - பாவை பப்ளிகேஷன்ஸ், சென்னை
   * எளிய படவிளக்க எந்திரப்பொறியியல் அகராதி - உருசிய மூலநூல் ஆசிரியர், வி.வி. ஷ்வார்த்ஸ்;  தமிழாக்கம் உலோ.செந்தமிழ்க்கோதை (2008) - தென்னக ஆய்வு மையம், சென்னை
   * கலைச்சொல் பேரகராதி - கலைச்சொல்லாக்கக் குழு தமிழ்நாடு அரசு  (2008) - தமிழ் இணையப் பல்கலைக்கழகம், சென்னை
+  * கலைச் சொல்லாக்கம் - டாக்டர் இராதா செல்லப்பன் (2006) - அறிவுப் பதிப்பகம், சென்னை
+  * கலைச் சொல்லியல் - டாக்டர் இராதா செல்லப்பன் (2006) - தாமரை பப்ளிகேஷன்ஸ், சென்னை 
   * இயந்திரவியல் இயந்திரப் பொறியியல் கலைச்சொற்கள் - தொகுப்பாசிரியர்: முனைவர் இராதா செல்லப்பன் (2002) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் -  ISBN:81-7090-307-1
   * மின்னியல் மற்றும் மின்னணுவியல் கலைச்சொற்கள் - பதிப்பாசிரியர்: முனைவர் இராதா செல்லப்பன் (2002) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN:81-7090-308-4
   * பொறியியல் தொழில் நுட்பவியல் கலைச்சொற்கள் - முனைவர் இராம. சுந்தரம் (1997) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN:81-7090-251-7
@@ -70,7 +73,8 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
    * அடிப்படை மின்னியல்  -  சொ. குமார் (1997) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN: 8170902606
  ### மின்னணுவியல் Electronics
    * அடிப்படை மின்னணுவியல் (Basic Electronics) - எஸ். சுந்தர சீனிவாசன் (2012) - திருமகள் நிலையம், சென்னை
-   * [அதிசய மின்னணு - பேராசிரியர் ந. சுப்பு ரெட்டியார் (1963) - சைவசித்தாந்த நூற்பதிப்புக் கழகம்](http://www.tamilvu.org/library/nationalized/pdf/35-subbureddiyar/476-adisiyaminanu.pdf)   
+   * [அதிசய மின்னணு - பேராசிரியர் ந. சுப்பு ரெட்டியார் (1963) - சைவசித்தாந்த நூற்பதிப்புக் கழகம்](http://www.tamilvu.org/library/nationalized/pdf/35-subbureddiyar/476-adisiyaminanu.pdf)
+   * செய்து மகிழ சின்னஞ்சிறு மின்னணு சோதனைகள் - டாக்டர் மெ.மெய்யப்பன் (2000) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை
  ### வானூர்தி / விண்வெளிப் பொறியியல் Aeronautical and Space
    * ஏவூர்தியியல் Rocketry - ஆசிரியர் நெல்லை சு. முத்து  (2007) - ஆர்வி பதிப்பகம், சென்னை
    * [இன்றைய விண்வெளி Space Today - மோகன் சுந்தரராஜன், சித்திரங்கள் நரேந்திர தியாகி (2003) - நேஷனல் புக் டிரஸ்ட், புதுதில்லி](https://archive.org/details/in.ernet.dli.2015.287688)
@@ -78,7 +82,7 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
    * ஒலியோடைகள் Podcasts: [On this day (OTD) in space history](https://spacenewstamil.com/tag/otd-tamil/)
  ### சுரங்க மற்றும் மாழையியல் Mining and Metallurgy
    * காணொளி: 
-     * [Class 12 Chemistry | Metallurgy (State board) 42 videos - Kalabharathi Academy -
+     * [Class 12 Chemistry | Metallurgy (State board) 42 videos தமிழில் - Kalabharathi Academy -
 Mineral and ore, Froth floatation process, Leaching, Magnetic separation, Roasting, Calcination, smelting, Ellingham diagram, Hall heroult's process, Refining, Van Arkel Method](https://www.youtube.com/playlist?list=PLCATGF9qVeC62H0WxnxKYmBNS1FU64z3N)
      * [வெப்பப் பதனிடல் Heat treatment - improving the property of metals by hardening, annealing & normalizing - தரணீஸ்வரன்](https://www.youtube.com/watch?v=i1Y2mek9ovo)
  ### வேதிப் பொறியியல் Chemical Engineering
