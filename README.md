@@ -70,9 +70,7 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
    * அடிப்படை மின்னியல்  -  சொ. குமார் (1997) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN: 8170902606
  ### மின்னணுவியல் Electronics
    * அடிப்படை மின்னணுவியல் (Basic Electronics) - எஸ். சுந்தர சீனிவாசன் (2012) - திருமகள் நிலையம், சென்னை
-   * [அதிசய மின்னணு - பேராசிரியர் ந. சுப்பு ரெட்டியார் (1963) - சைவசித்தாந்த நூற்பதிப்புக் கழகம்](http://www.tamilvu.org/library/nationalized/pdf/35-subbureddiyar/476-adisiyaminanu.pdf)
- ### கட்டடக்கலை Architecture         
-   
+   * [அதிசய மின்னணு - பேராசிரியர் ந. சுப்பு ரெட்டியார் (1963) - சைவசித்தாந்த நூற்பதிப்புக் கழகம்](http://www.tamilvu.org/library/nationalized/pdf/35-subbureddiyar/476-adisiyaminanu.pdf)   
  ### வானூர்தி / விண்வெளிப் பொறியியல் Aeronautical and Space
    * ஏவூர்தியியல் Rocketry - ஆசிரியர் நெல்லை சு. முத்து  (2007) - ஆர்வி பதிப்பகம், சென்னை
    * [இன்றைய விண்வெளி Space Today - மோகன் சுந்தரராஜன், சித்திரங்கள் நரேந்திர தியாகி (2003) - நேஷனல் புக் டிரஸ்ட், புதுதில்லி](https://archive.org/details/in.ernet.dli.2015.287688)
