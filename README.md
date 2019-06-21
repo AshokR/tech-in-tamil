@@ -46,15 +46,16 @@
    * மின்னூல்கள்
      * [எளிய தமிழில் CNC  – இரா. அசோகன் - Freetamilebooks.com கணியம் அறக்கட்டளை](https://freetamilebooks.com/ebooks/cnc/)
    * காணொளிகள்
-     * [AUmech-in-tamil](https://www.youtube.com/channel/UCLzsO1SJl5nD47WwmrR5D6Q/videos) YouTube Channel - First episode published Jun 13, 2017 - பயிலுவோம் இயந்திரயியல் பழகு தமிழில் - தமிழ்மெக். தாளமுத்து 
+     * [AUmech-in-tamil - பயிலுவோம் இயந்திரயியல் பழகு தமிழில் - over 500 videos - தமிழ்மெக். தாளமுத்து](https://www.youtube.com/channel/UCLzsO1SJl5nD47WwmrR5D6Q/videos) 
 GE 6152 Engineering Graphics: I Year All Engineering students 1st Semester;
 ME 6301 Engineering Thermodynamics: II Year Mech students 3rd Semester;
 ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
-     * [Mechanical Engineering - N. சண்முகம், பொறியியலாளர், மதுரை பொறியியல் நிறுவனம்](https://www.youtube.com/user/maduraiengineering/videos?view=0&sort=dd&flow=grid)
+     * [Mechanical Engineering - 63 videos - N. சண்முகம், பொறியியலாளர், மதுரை பொறியியல் நிறுவனம்](https://www.youtube.com/user/maduraiengineering/videos?view=0&sort=dd&flow=grid)
      Engineering Mechanics, Strength of Materials, Fluid Mechanics, Heat Transfer, IC Engines, Refrigeration, Air Conditioning, Boiler, Lathe, Milling, CNC, Hydraulic Lift.
-     * [தமிழ்வழி CNC பயிற்சி - Shavedha CNC Institute - CNC Programming & operation, CNC Offset](https://www.youtube.com/channel/UCn5hz3CIRfQtfbhZXbW_KbA/videos)
+     * [தமிழ்வழி CNC பயிற்சி - Shavedha CNC Institute - 32 videos - CNC Programming & operation, CNC Offset](https://www.youtube.com/channel/UCn5hz3CIRfQtfbhZXbW_KbA/videos)
      * [THOUFIQ MOHAMMED. K Assistant Professor - Design of Machine Elements - 13 videos - Design of shafts, beams, bearings, welding joints, helical and leaf springs, flange coupling, rivet joints](https://www.youtube.com/playlist?list=PL8EJqJaNKpjW8Qka2MatntptB3_Gt180L)
      * [Machine Design - 23 videos - பிரசாந்த் கல்யாணசுந்தரம் - Fundamentals of Failure Analysis, Stress concentration, Fatigue failure, Thermal expansion, Torque Vs Moment, Bending Moment & Shear Force Diagram, Moment of Inertia, Factor of Safety, Fracture Mechanics](https://www.youtube.com/playlist?list=PLGPnYKI27nXqZYdtJxL-hHYwdf5Q_7eKC)
+     * [TAMIL CNC TECH சி என் சி தமிழ் வழி பயிற்சி - Tamil Online Babu - 10 videos - CNC மெஷினின் முக்கிய பாகங்கள், CNC machine mode selection buttons, cnc turning part program, cnc milling programming, G Codes, M Codes](https://www.youtube.com/channel/UC14FTmf53oo_nixzCghVFQA/videos)
      * [Mechanical Engineering in Tamil - 10 videos - Thermal power plant, Centrifugal and Jet pumps, Wind turbine](https://www.youtube.com/channel/UCCZNyXp_n_nwUl7_8l4tkJg/playlists)
  ### தானுந்து பொறியியல் Automobile Engineering  
    * காணொளி: 
