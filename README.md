@@ -31,7 +31,7 @@
      * அடிப்படைக் கட்டுமான வடிவமைப்பு - க.செயகோபால் (1992) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN:81-7090-105-7
    * அச்சில் - மாத இதழ்கள்
      * கட்டுநர் குரல் - “A Monthly Journal for Architects, Builders, Contractors, Engineers, Flat Promoters & General Public”
-     * [பில்டர்ஸ் லைன் - கட்டுமானத்துறை மாத இதழ் - by Prompt Publication](http://www.buildersline.in/)
+     * [பில்டர்ஸ் லைன் - கட்டுமானத்துறை மாத இதழ் - பிராம்ப்ட் பதிப்பகம், சென்னை](http://www.buildersline.in/)
    * காணொளிகள்
  ### இயந்திரவியல் பொறியியல் Mechanical Engineering
    * அச்சில்
@@ -74,8 +74,8 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
    * அடிப்படை மின்னியல்  -  சொ. குமார் (1997) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN: 8170902606
  ### மின்னணுவியல் Electronics
    * அடிப்படை மின்னணுவியல் (Basic Electronics) - எஸ். சுந்தர சீனிவாசன் (2012) - திருமகள் நிலையம், சென்னை
-   * [அதிசய மின்னணு - பேராசிரியர் ந. சுப்பு ரெட்டியார் (1963) - சைவசித்தாந்த நூற்பதிப்புக் கழகம்](http://www.tamilvu.org/library/nationalized/pdf/35-subbureddiyar/476-adisiyaminanu.pdf)
    * செய்து மகிழ சின்னஞ்சிறு மின்னணு சோதனைகள் - டாக்டர் மெ.மெய்யப்பன் (2000) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை
+   * [அதிசய மின்னணு - பேராசிரியர் ந. சுப்பு ரெட்டியார் (1963) - சைவசித்தாந்த நூற்பதிப்புக் கழகம்](http://www.tamilvu.org/library/nationalized/pdf/35-subbureddiyar/476-adisiyaminanu.pdf)
  ### வானூர்தி / விண்வெளிப் பொறியியல் Aeronautical and Space
    * ஏவூர்தியியல் Rocketry - ஆசிரியர் நெல்லை சு. முத்து  (2007) - ஆர்வி பதிப்பகம், சென்னை
    * [இன்றைய விண்வெளி Space Today - மோகன் சுந்தரராஜன், சித்திரங்கள் நரேந்திர தியாகி (2003) - நேஷனல் புக் டிரஸ்ட், புதுதில்லி](https://archive.org/details/in.ernet.dli.2015.287688)
