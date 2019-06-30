@@ -39,7 +39,8 @@
      * பொது இயந்திரவியல் தாள்-1 பொறியியல் வரைபடம் தொழிற்கல்வி - மேல்நிலை - முதலாம் ஆண்டு - தமிழ்நாடு அரசு  (2010) 
      * பொது இயந்திரவியல் தாள்-2 பணிமனை பொறியியல் தொழிற்கல்வி - மேல்நிலை முதலாம் ஆண்டு - தமிழ்நாடு அரசு  (2010) 
      * பொது இயந்திரவியல் தாள்-2 பணிமனைப் பொறியியல் - மேல்நிலை முதலாம் ஆண்டு - தமிழ்நாடு அரசு  (2010)
-     * இயந்திர பொறியியலும் வரைபடமும் (2010) - தமிழ்நாட்டுப் பாடநூல் கழகம்     
+     * இயந்திர பொறியியலும் வரைபடமும் (2010) - தமிழ்நாட்டுப் பாடநூல் கழகம் 
+     * CNC Programming & Operations தமிழில் - FANUC Operating System - G. சங்கர், T. சதீஷ், R. பாலமுருகன் (2008) - Micro Publication, Trichy - [பதிவிறக்கம் இணைப்பு இந்தக் காணொளியில்](https://www.youtube.com/watch?v=ak1-C74dHwM)
      * ரெஃப்ரிஜிரேஷன் & ஏர்கண்டிஷனிங் மெக்கானிசம் - C. M. ஜாய் ஜார்ஜ்  (2008) - நியூ செஞ்சுரி புக் ஹவுஸ், சென்னை - ISBN: 8123405529 
      * செயலாக்க நிலையியக்கவியல் -அ. ஆறுமுகம் (1997) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN:81-7090-259-2
      * அடிப்படை இயந்திரவியல் - கே. ஆர். கோவிந்தன் (1997) - தமிழ்ப் பல்கலைக்கழகம், தஞ்சாவூர் - ISBN:81-7090-248-5
@@ -56,6 +57,8 @@ ME 6502 Heat and Mass Transfer: III Year Mech students 5th Semester.
      * [THOUFIQ MOHAMMED. K Assistant Professor - Design of Machine Elements - 13 videos - Design of shafts, beams, bearings, welding joints, helical and leaf springs, flange coupling, rivet joints](https://www.youtube.com/playlist?list=PL8EJqJaNKpjW8Qka2MatntptB3_Gt180L)
      * [Machine Design - 23 videos - பிரசாந்த் கல்யாணசுந்தரம் - Fundamentals of Failure Analysis, Stress concentration, Fatigue failure, Thermal expansion, Torque Vs Moment, Bending Moment & Shear Force Diagram, Moment of Inertia, Factor of Safety, Fracture Mechanics](https://www.youtube.com/playlist?list=PLGPnYKI27nXqZYdtJxL-hHYwdf5Q_7eKC)
      * [TAMIL CNC TECH சி என் சி தமிழ் வழி பயிற்சி - Tamil Online Babu - 10 videos - CNC மெஷினின் முக்கிய பாகங்கள், CNC machine mode selection buttons, cnc turning part program, cnc milling programming, G Codes, M Codes](https://www.youtube.com/channel/UC14FTmf53oo_nixzCghVFQA/videos)
+     * [CNC Tamil Tips - 16 videos - Shop safety, Coordinate systems, CNC Turning tools, G Codes and M Codes](https://www.youtube.com/channel/UC4xwHhdnOOs8yCd1acAe4-g/videos)
+     * [Learn GD&T Completely In Tamil - Geometric Dimensioning And Tolerancing - L Cad - Learn everything about GD&T Basics - 4.5 hour video](https://www.youtube.com/watch?v=H9EuMs-WGMM)
      * [Mechanical Engineering in Tamil - 10 videos - Thermal power plant, Centrifugal and Jet pumps, Wind turbine](https://www.youtube.com/channel/UCCZNyXp_n_nwUl7_8l4tkJg/playlists)
  ### தானுந்து பொறியியல் Automobile Engineering  
    * காணொளி: 
